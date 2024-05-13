@@ -1,6 +1,6 @@
 ## Hi there! 
 
-I'm [Your Name], a Software Engineering student at the University of West Attica and an enthusiastic member of the Formula Student racing team, Poseidon.  I'm passionate about building things and tackling challenges.
+I'm Savvas Spiridonidis, a Software Engineering student at the University of West Attica and an enthusiastic member of the Formula Student racing team, Poseidon.  I'm passionate about building things and tackling challenges.
 
 **My Strengths:**
 
