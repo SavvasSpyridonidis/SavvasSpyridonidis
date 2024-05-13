@@ -21,6 +21,18 @@ I'm Savvas Spiridonidis, a Software Engineering student at the University of Wes
 
 I am an active member of the Poseidon Formula Student racing team, where I leverage my skills in simulation using Matlab and embedded systems to optimize vehicle performance.
 
+**Development Tools**
+
+I primarily use the following software for development:
+
+* **MATLAB** for mathematical computing and simulation
+* **JetBrains IDEs:**
+    * **IntelliJ IDEA** for Java development
+    * **CLion** for C and C++ development
+    * **PyCharm** for Python development
+* **Keil MDK-ARM** (likely referring to Keil µVision) for embedded systems development
+
+
 This GitHub profile showcases my projects and contributions. Feel free to explore and reach out if you have any questions!
 
 <!--
