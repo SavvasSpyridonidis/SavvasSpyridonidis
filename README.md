@@ -1,50 +1,60 @@
-## Hi there! 
+# Hi there! 👋
 
-I'm Savvas Spiridonidis, a Software Engineering student at the University of West Attica and an enthusiastic member of the Formula Student racing team, Poseidon.  I'm passionate about building things and tackling challenges.
+I'm Savvas Spiridonidis, an **Integrated Master's student in Software and Computer Engineering** at the University of West Attica (Expected Grad: Sept 2026) with a strong passion for **Embedded Systems Development**.
 
-**My Strengths:**
+Currently, I'm the **Software Development Lead** for the **Poseidon Formula Student Team** 🏎️, where I apply my skills to design, build, and optimize critical vehicle systems. I thrive on tackling complex challenges, meticulous planning, collaborative problem-solving, and ensuring high-quality results.
 
-* **Problem-Solving:** I excel at breaking down complex problems into manageable tasks and utilizing the available tools to find solutions. 
-* **Composure under Pressure:** I stay calm and collected in challenging situations, allowing me to focus on finding solutions.
-* **Communication:** I believe in clear and concise communication to ensure everyone is on the same page.
-* **Attention to Detail:** I have a keen eye for detail, ensuring projects are completed with accuracy.
+## 🚀 What I'm Currently Working On
 
-**My Interests:**
+As the Software Development Lead for the Poseidon Team ([Link to Poseidon Team website/social if available]), I'm actively involved in:
+*   Leading a team of students in the embedded software development lifecycle.
+*   Designing and implementing the team's first **Custom Battery Management System (BMS)** using **C/C++** on **STM32 microcontrollers**.
+*   Spearheading the development of a **Custom 4G Cellular Telemetry System** utilizing **ESP32/STM32**, **CAN-Bus**, **GPS**, **MQTT**, and **Node-Red** for real-time remote monitoring and diagnostics.
+*   Integrating hardware and software components, ensuring robust communication via protocols like **CAN-Bus** and **MQTT**.
+*   Managing the team's codebase using **Git/GitHub** and fostering effective team collaboration.
+*   Previously engineered the **ECU software (C/C++)** for the team's first electric car, focusing on control logic and **CAN-Bus** communication.
 
-* **Planning and Execution:** I enjoy meticulously planning projects and then executing them efficiently.
-* **Building Systems:** I love taking components and building them into a cohesive and functional system.
-* **Systems Thinking:** I see the bigger picture and understand how individual parts contribute to the whole.
-* **Puzzles and Challenges:** I thrive on finding solutions to complex problems and puzzles.
-* **Adaptability:** I embrace change and is always eager to learn new technologies.
+## 🛠️ Skills & Technologies
 
-**Formula Student Racing Team - Poseidon**
+*   **Programming Languages:** C, C++, Java, Python (Familiar), SQL (Familiar), VHDL (Basic)
+*   **Embedded Systems & Hardware:**
+    *   Microcontrollers: **STM32**, **ESP32**, Arduino
+    *   Development: Embedded C/C++, RTOS Concepts (Familiar), Hardware/Software Integration, Digital Logic Design
+    *   Tools: **STM32CubeIDE**, JTAG Debuggers (ST-Link), **MATLAB (Simulink, Simscape)**, LTSpice, Oscilloscope, Multimeter, Altium (Familiar)
+    *   Protocols: **CAN-Bus**, **MQTT**, I2C (Familiar), SPI (Familiar), UART (Familiar)
+*   **Software & Development Tools:** Git, GitHub, JetBrains IDEs (CLion, PyCharm, IntelliJ), Linux (Ubuntu, Debian), Docker (Learning), PostgreSQL (TimeSeriesDB), Node-Red, MS Office Suite
+*   **Other Skills:** Problem-Solving, Analytical Thinking, Teamwork & Collaboration, Communication (English C2 Proficient, Greek Native), Planning & Time Management, Attention to Detail, Composure Under Pressure
 
-I am an active member of the Poseidon Formula Student racing team, where I leverage my skills in simulation using Matlab and embedded systems to optimize vehicle performance.
+## 🔧 Featured Projects [(More details in repositories)]
 
-**Development Tools**
+*   **Poseidon Team - Custom BMS:** Leading development of an STM32-based BMS for safety and performance.
+*   **Poseidon Team - 4G Telemetry System:** Spearheading development for remote vehicle monitoring & diagnostics.
+*   **Poseidon Team - ECU Development:** Developed core ECU software for the electric race car.
+*   **Smart Sensor Monitoring System:** ESP32/MQTT based system for environmental monitoring (Academic Project).
+*   **STM32 Code Validation System:** Automated C scripts for validating embedded functionalities.
+*   **Battery Pack Assembly & Testing Simulation:** Using MATLAB/Simulink/Simscape to model and test Li-ion pack designs.
 
-I primarily use the following software for development:
-
-* **MATLAB** for mathematical computing and simulation
-* **JetBrains IDEs:**
-    * **IntelliJ IDEA** for Java development
-    * **CLion** for C and C++ development
-    * **PyCharm** for Python development
-* **Keil MDK-ARM** (likely referring to Keil µVision) for embedded systems development
-
-
-This GitHub profile showcases my projects and contributions. Feel free to explore and reach out if you have any questions!
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/savvas-spyridonidis-aa30131a7/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/savvas-spyridonidis-aa30131a7/)
 
-# Languages and Tools:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Languages and Tools Spotlight:
+<!-- Select key icons relevant to the CV -->
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+  <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noreferrer"> <img src="https://www.st.com/content/dam/AME/2021/stm32-ecosystem/stm32cube-ecosystem/stm32cubeide-product-presentation.png/_jcr_content/renditions/original" alt="STM32CubeIDE" width="40" height="40"/> </a> <!-- Placeholder - Find better STM32/ESP32 icons if possible -->
+  <a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="https://mqtt.org/assets/img/mqtt-icon.png" alt="mqtt" width="40" height="40"/> </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+</p>
 
-
-# 💻 Tech Stack:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SavvasSpyridonidis&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SavvasSpyridonidis&theme=tokyonight&hide_border=false)<br/>
 
@@ -58,4 +68,4 @@ This GitHub profile showcases my projects and contributions. Feel free to explor
 ---
 [![](https://visitcount.itsvg.in/api?id=SavvasSpyridonidis&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Feel free to explore my repositories! -->
