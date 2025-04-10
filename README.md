@@ -6,7 +6,7 @@ Currently, I'm the **Software Development Lead** for the **Poseidon Formula Stud
 
 ## 🚀 What I'm Currently Working On
 
-As the Software Development Lead for the Poseidon Team ([Link to Poseidon Team website/social if available]), I'm actively involved in:
+As the Software Development Lead for the **[Poseidon Formula Student Team](https://www.linkedin.com/company/poseidon-team/posts/?feedView=all)**, I'm actively involved in:
 *   Leading a team of students in the embedded software development lifecycle.
 *   Designing and implementing the team's first **Custom Battery Management System (BMS)** using **C/C++** on **STM32 microcontrollers**.
 *   Spearheading the development of a **Custom 4G Cellular Telemetry System** utilizing **ESP32/STM32**, **CAN-Bus**, **GPS**, **MQTT**, and **Node-Red** for real-time remote monitoring and diagnostics.
@@ -25,7 +25,7 @@ As the Software Development Lead for the Poseidon Team ([Link to Poseidon Team w
 *   **Software & Development Tools:** Git, GitHub, JetBrains IDEs (CLion, PyCharm, IntelliJ), Linux (Ubuntu, Debian), Docker (Learning), PostgreSQL (TimeSeriesDB), Node-Red, MS Office Suite
 *   **Other Skills:** Problem-Solving, Analytical Thinking, Teamwork & Collaboration, Communication (English C2 Proficient, Greek Native), Planning & Time Management, Attention to Detail, Composure Under Pressure
 
-## 🔧 Featured Projects [(More details in repositories)]
+## 🔧 Featured Projects
 
 *   **Poseidon Team - Custom BMS:** Leading development of an STM32-based BMS for safety and performance.
 *   **Poseidon Team - 4G Telemetry System:** Spearheading development for remote vehicle monitoring & diagnostics.
